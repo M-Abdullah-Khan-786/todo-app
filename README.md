@@ -1,4 +1,4 @@
-**ToDo App**
+**ToDo App:**
 
 This ToDo App is built using React with Tailwind CSS and Vite setup. It allows you to efficiently manage your tasks by adding, editing, deleting, and marking them as complete.
 
